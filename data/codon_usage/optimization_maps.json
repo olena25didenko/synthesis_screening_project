@@ -1,0 +1,57 @@
+{
+  "Influenza A": {
+    "AUG": "UAG",
+    "CCA": "CCG",
+    "AGA": "CGC",
+    "CAA": "CAG",
+    "ACA": "ACG",
+    "AAA": "AAG",
+    "GCA": "GCG",
+    "GGA": "GGC",
+    "GAA": "GAG"
+  },
+  "Ebola Virus": {
+    "AAU": "UAG",
+    "CCA": "CCG",
+    "AGA": "CGG",
+    "CAA": "CAG",
+    "ACA": "ACG",
+    "AAA": "AAG",
+    "GCA": "GCG",
+    "GGA": "GGC",
+    "GAA": "GAG"
+  },
+  "Lassa Virus": {
+    "GAU": "UAG",
+    "CCA": "CCG",
+    "AGA": "CGC",
+    "CAA": "CAG",
+    "ACA": "ACG",
+    "AAA": "AAG",
+    "GCA": "GCG",
+    "GGG": "GGC",
+    "GAA": "GAG"
+  },
+  "Measles Virus": {
+    "GAU": "UAA",
+    "CCA": "CCG",
+    "AGA": "CGC",
+    "CAA": "CAG",
+    "ACA": "ACG",
+    "AAG": "AAA",
+    "GCA": "GCG",
+    "GGG": "GGC",
+    "GAG": "GAA"
+  },
+  "SARS-CoV-2": {
+    "UUU": "UAG",
+    "CCA": "CCG",
+    "AGA": "CGG",
+    "CAA": "CAG",
+    "ACA": "ACG",
+    "AAA": "AAG",
+    "GCA": "GCG",
+    "GGC": "GGG",
+    "GAA": "GAG"
+  }
+}

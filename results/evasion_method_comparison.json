@@ -1,0 +1,68 @@
+{
+  "Codon Optimization": {
+    "Influenza A": {
+      "detected": true,
+      "top_identity": 91.901
+    },
+    "Ebola Virus": {
+      "detected": true,
+      "top_identity": 93.814
+    },
+    "Lassa Virus": {
+      "detected": true,
+      "top_identity": 93.474
+    },
+    "Measles Virus": {
+      "detected": true,
+      "top_identity": 92.654
+    },
+    "SARS-CoV-2": {
+      "detected": true,
+      "top_identity": 93.127
+    }
+  },
+  "Wobble Modifications": {
+    "Influenza A": {
+      "detected": false,
+      "top_identity": 0
+    },
+    "Ebola Virus": {
+      "detected": false,
+      "top_identity": 0
+    },
+    "Lassa Virus": {
+      "detected": false,
+      "top_identity": 0
+    },
+    "Measles Virus": {
+      "detected": false,
+      "top_identity": 0
+    },
+    "SARS-CoV-2": {
+      "detected": false,
+      "top_identity": 0
+    }
+  },
+  "GC Rebalancing": {
+    "Influenza A": {
+      "detected": false,
+      "top_identity": 0
+    },
+    "Ebola Virus": {
+      "detected": false,
+      "top_identity": 0
+    },
+    "Lassa Virus": {
+      "detected": false,
+      "top_identity": 0
+    },
+    "Measles Virus": {
+      "detected": false,
+      "top_identity": 0
+    },
+    "SARS-CoV-2": {
+      "detected": false,
+      "top_identity": 0
+    }
+  }
+}

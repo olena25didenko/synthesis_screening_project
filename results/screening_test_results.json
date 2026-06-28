@@ -1,0 +1,122 @@
+[
+  {
+    "organism": "Influenza A",
+    "original_detected": true,
+    "optimized_detected": true,
+    "evasion_successful": false,
+    "original_matches": 1,
+    "optimized_matches": 1,
+    "original_top_hit": {
+      "query": "KU143292.1",
+      "subject": "KU143292.1",
+      "identity": 100.0,
+      "length": 1704,
+      "evalue": 0.0,
+      "bitscore": 3147.0
+    },
+    "optimized_top_hit": {
+      "query": "KU143292.1_codon_optimized",
+      "subject": "KU143292.1",
+      "identity": 91.901,
+      "length": 1704,
+      "evalue": 0.0,
+      "bitscore": 2383.0
+    }
+  },
+  {
+    "organism": "Ebola Virus",
+    "original_detected": true,
+    "optimized_detected": true,
+    "evasion_successful": false,
+    "original_matches": 1,
+    "optimized_matches": 1,
+    "original_top_hit": {
+      "query": "AY058896.1",
+      "subject": "AY058896.1",
+      "identity": 100.0,
+      "length": 1070,
+      "evalue": 0.0,
+      "bitscore": 1969.0
+    },
+    "optimized_top_hit": {
+      "query": "AY058896.1_codon_optimized",
+      "subject": "AY058896.1",
+      "identity": 93.814,
+      "length": 1067,
+      "evalue": 0.0,
+      "bitscore": 1598.0
+    }
+  },
+  {
+    "organism": "Lassa Virus",
+    "original_detected": true,
+    "optimized_detected": true,
+    "evasion_successful": false,
+    "original_matches": 1,
+    "optimized_matches": 1,
+    "original_top_hit": {
+      "query": "J04324.1",
+      "subject": "J04324.1",
+      "identity": 100.0,
+      "length": 3402,
+      "evalue": 0.0,
+      "bitscore": 6283.0
+    },
+    "optimized_top_hit": {
+      "query": "J04324.1_codon_optimized",
+      "subject": "J04324.1",
+      "identity": 93.474,
+      "length": 3402,
+      "evalue": 0.0,
+      "bitscore": 5053.0
+    }
+  },
+  {
+    "organism": "Measles Virus",
+    "original_detected": true,
+    "optimized_detected": true,
+    "evasion_successful": false,
+    "original_matches": 1,
+    "optimized_matches": 1,
+    "original_top_hit": {
+      "query": "M14915.1",
+      "subject": "M14915.1",
+      "identity": 100.0,
+      "length": 2355,
+      "evalue": 0.0,
+      "bitscore": 4349.0
+    },
+    "optimized_top_hit": {
+      "query": "M14915.1_codon_optimized",
+      "subject": "M14915.1",
+      "identity": 92.654,
+      "length": 2355,
+      "evalue": 0.0,
+      "bitscore": 3391.0
+    }
+  },
+  {
+    "organism": "SARS-CoV-2",
+    "original_detected": true,
+    "optimized_detected": true,
+    "evasion_successful": false,
+    "original_matches": 1,
+    "optimized_matches": 1,
+    "original_top_hit": {
+      "query": "OF365882.1",
+      "subject": "OF365882.1",
+      "identity": 100.0,
+      "length": 582,
+      "evalue": 0.0,
+      "bitscore": 1075.0
+    },
+    "optimized_top_hit": {
+      "query": "OF365882.1_codon_optimized",
+      "subject": "OF365882.1",
+      "identity": 93.127,
+      "length": 582,
+      "evalue": 0.0,
+      "bitscore": 854.0
+    }
+  }
+]
