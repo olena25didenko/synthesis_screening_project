@@ -1,0 +1,303 @@
+{
+  "technique": "phase_4_codon_deoptimization",
+  "total_sequences": 48,
+  "evaded": 36,
+  "detected": 12,
+  "sequences": {
+    "AB010145.1": {
+      "detected": false,
+      "blast_identity": 0.0,
+      "nucleotide_identity": 0.0,
+      "evalue": Infinity
+    },
+    "AB211639.1": {
+      "detected": false,
+      "blast_identity": 0.0,
+      "nucleotide_identity": 0.7137476459510358,
+      "evalue": Infinity
+    },
+    "AB470224.1": {
+      "detected": false,
+      "blast_identity": 0.0,
+      "nucleotide_identity": 0.7724137931034483,
+      "evalue": Infinity
+    },
+    "AB470225.1": {
+      "detected": false,
+      "blast_identity": 0.0,
+      "nucleotide_identity": 0.7718120805369127,
+      "evalue": Infinity
+    },
+    "AY058896.1": {
+      "detected": false,
+      "blast_identity": 0.0,
+      "nucleotide_identity": 0.0,
+      "evalue": Infinity
+    },
+    "AY291451.1": {
+      "detected": true,
+      "blast_identity": 0.74328,
+      "nucleotide_identity": 0.0,
+      "evalue": 0.0
+    },
+    "AY500324.1": {
+      "detected": false,
+      "blast_identity": 0.0,
+      "nucleotide_identity": 0.7437641723356009,
+      "evalue": Infinity
+    },
+    "AY567487.1": {
+      "detected": false,
+      "blast_identity": 0.0,
+      "nucleotide_identity": 0.0,
+      "evalue": Infinity
+    },
+    "AY585882.1": {
+      "detected": false,
+      "blast_identity": 0.0,
+      "nucleotide_identity": 0.0,
+      "evalue": Infinity
+    },
+    "AY585887.1": {
+      "detected": false,
+      "blast_identity": 0.0,
+      "nucleotide_identity": 0.6921296296296297,
+      "evalue": Infinity
+    },
+    "AY729654.1": {
+      "detected": true,
+      "blast_identity": 0.75345,
+      "nucleotide_identity": 0.0,
+      "evalue": 0.0
+    },
+    "AY859704.1": {
+      "detected": false,
+      "blast_identity": 0.0,
+      "nucleotide_identity": 0.696078431372549,
+      "evalue": Infinity
+    },
+    "AY859705.1": {
+      "detected": false,
+      "blast_identity": 0.0,
+      "nucleotide_identity": 0.7030812324929971,
+      "evalue": Infinity
+    },
+    "CY163680.1": {
+      "detected": true,
+      "blast_identity": 0.76504,
+      "nucleotide_identity": 0.7605066206102475,
+      "evalue": 0.0
+    },
+    "CY163681.1": {
+      "detected": false,
+      "blast_identity": 0.0,
+      "nucleotide_identity": 0.0,
+      "evalue": Infinity
+    },
+    "CY163684.1": {
+      "detected": false,
+      "blast_identity": 0.0,
+      "nucleotide_identity": 0.0,
+      "evalue": Infinity
+    },
+    "CY163686.1": {
+      "detected": false,
+      "blast_identity": 0.0,
+      "nucleotide_identity": 0.0,
+      "evalue": Infinity
+    },
+    "FJ217161.1": {
+      "detected": true,
+      "blast_identity": 0.7535200000000001,
+      "nucleotide_identity": 0.0,
+      "evalue": 0.0
+    },
+    "GQ152857.1": {
+      "detected": false,
+      "blast_identity": 0.0,
+      "nucleotide_identity": 0.7292418772563177,
+      "evalue": Infinity
+    },
+    "J04324.1": {
+      "detected": false,
+      "blast_identity": 0.0,
+      "nucleotide_identity": 0.7407407407407407,
+      "evalue": Infinity
+    },
+    "JQ708657.1": {
+      "detected": false,
+      "blast_identity": 0.0,
+      "nucleotide_identity": 0.0,
+      "evalue": Infinity
+    },
+    "JQ860605.1": {
+      "detected": false,
+      "blast_identity": 0.0,
+      "nucleotide_identity": 0.6857142857142857,
+      "evalue": Infinity
+    },
+    "KC242800.1": {
+      "detected": false,
+      "blast_identity": 0.0,
+      "nucleotide_identity": 0.0,
+      "evalue": Infinity
+    },
+    "KC881005.1": {
+      "detected": true,
+      "blast_identity": 0.7426999999999999,
+      "nucleotide_identity": 0.7399872427569074,
+      "evalue": 0.0
+    },
+    "KF821935.1": {
+      "detected": false,
+      "blast_identity": 0.0,
+      "nucleotide_identity": 0.0,
+      "evalue": Infinity
+    },
+    "KM034562.1": {
+      "detected": false,
+      "blast_identity": 0.0,
+      "nucleotide_identity": 0.7410982750435195,
+      "evalue": Infinity
+    },
+    "KU143292.1": {
+      "detected": false,
+      "blast_identity": 0.0,
+      "nucleotide_identity": 0.7822769953051644,
+      "evalue": Infinity
+    },
+    "LC107905.1": {
+      "detected": false,
+      "blast_identity": 0.0,
+      "nucleotide_identity": 0.0,
+      "evalue": Infinity
+    },
+    "M14915.1": {
+      "detected": false,
+      "blast_identity": 0.0,
+      "nucleotide_identity": 0.7273885350318471,
+      "evalue": Infinity
+    },
+    "M17211.1": {
+      "detected": false,
+      "blast_identity": 0.0,
+      "nucleotide_identity": 0.7503415300546448,
+      "evalue": Infinity
+    },
+    "M29391.1": {
+      "detected": false,
+      "blast_identity": 0.0,
+      "nucleotide_identity": 0.0,
+      "evalue": Infinity
+    },
+    "M33221.1": {
+      "detected": false,
+      "blast_identity": 0.0,
+      "nucleotide_identity": 0.7307692307692307,
+      "evalue": Infinity
+    },
+    "M58450.1": {
+      "detected": false,
+      "blast_identity": 0.0,
+      "nucleotide_identity": 0.7401129943502824,
+      "evalue": Infinity
+    },
+    "M81897.1": {
+      "detected": false,
+      "blast_identity": 0.0,
+      "nucleotide_identity": 0.0,
+      "evalue": Infinity
+    },
+    "MN996531.1": {
+      "detected": true,
+      "blast_identity": 0.7450100000000001,
+      "nucleotide_identity": 0.0,
+      "evalue": 0.0
+    },
+    "NC_001423.1": {
+      "detected": false,
+      "blast_identity": 0.0,
+      "nucleotide_identity": 0.0,
+      "evalue": Infinity
+    },
+    "NC_001608.1": {
+      "detected": true,
+      "blast_identity": 0.7457299999999999,
+      "nucleotide_identity": 0.7422005862646566,
+      "evalue": 0.0
+    },
+    "NC_004161.1": {
+      "detected": true,
+      "blast_identity": 0.74913,
+      "nucleotide_identity": 0.7454343338097507,
+      "evalue": 0.0
+    },
+    "NC_005077.1": {
+      "detected": false,
+      "blast_identity": 0.0,
+      "nucleotide_identity": 0.0,
+      "evalue": Infinity
+    },
+    "NC_005078.1": {
+      "detected": false,
+      "blast_identity": 0.0,
+      "nucleotide_identity": 0.0,
+      "evalue": Infinity
+    },
+    "NC_005080.1": {
+      "detected": false,
+      "blast_identity": 0.0,
+      "nucleotide_identity": 0.0,
+      "evalue": Infinity
+    },
+    "NC_005081.1": {
+      "detected": false,
+      "blast_identity": 0.0,
+      "nucleotide_identity": 0.7291116974494283,
+      "evalue": Infinity
+    },
+    "NC_006437.1": {
+      "detected": false,
+      "blast_identity": 0.0,
+      "nucleotide_identity": 0.0,
+      "evalue": Infinity
+    },
+    "NC_014372.1": {
+      "detected": true,
+      "blast_identity": 0.75066,
+      "nucleotide_identity": 0.0,
+      "evalue": 0.0
+    },
+    "NC_014373.1": {
+      "detected": true,
+      "blast_identity": 0.7535200000000001,
+      "nucleotide_identity": 0.0,
+      "evalue": 0.0
+    },
+    "NC_045512.2": {
+      "detected": true,
+      "blast_identity": 0.7633199999999999,
+      "nucleotide_identity": 0.0,
+      "evalue": 0.0
+    },
+    "OF365882.1": {
+      "detected": false,
+      "blast_identity": 0.0,
+      "nucleotide_identity": 0.7216494845360825,
+      "evalue": Infinity
+    },
+    "OV109917.1": {
+      "detected": true,
+      "blast_identity": 0.76589,
+      "nucleotide_identity": 0.0,
+      "evalue": 0.0
+    }
+  },
+  "nucleotide_identity_stats": {
+    "mean": 0.33665836281490163,
+    "min": 0.0,
+    "max": 0.7822769953051644,
+    "std": 0.36637890256771555
+  },
+  "success_rate": 0.75
+}

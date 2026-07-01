@@ -1,0 +1,2 @@
+id,sequence
+jobnamebatch_3_d9712,withopen('colabfold_batch_3.fasta','r')asf:query_sequence=f.read()

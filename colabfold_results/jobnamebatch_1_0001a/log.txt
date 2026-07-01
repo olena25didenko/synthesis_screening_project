@@ -1,0 +1,21 @@
+2026-06-29 18:47:23,067 Running on GPU
+2026-06-29 18:47:23,072 Found 5 citations for tools or databases
+2026-06-29 18:47:23,072 Query 1/1: withopen__colabfold_batch_1.fasta_ (length 30)
+2026-06-29 18:47:25,888 Could not generate input features withopen__colabfold_batch_1.fasta_: Invalid character in the sequence: '
+Traceback (most recent call last):
+  File "/content/colabfold/batch.py", line 1492, in run
+    = generate_input_feature(query_seqs_unique, query_seqs_cardinality, unpaired_msa, paired_msa,
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/content/colabfold/batch.py", line 931, in generate_input_feature
+    feature_dict = build_monomer_feature(
+                   ^^^^^^^^^^^^^^^^^^^^^^
+  File "/content/colabfold/batch.py", line 808, in build_monomer_feature
+    **pipeline.make_sequence_features(
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/content/alphafold/data/pipeline.py", line 40, in make_sequence_features
+    features['aatype'] = residue_constants.sequence_to_onehot(
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/content/alphafold/common/residue_constants.py", line 581, in sequence_to_onehot
+    raise ValueError(f'Invalid character in the sequence: {aa_type}')
+ValueError: Invalid character in the sequence: '
+2026-06-29 18:47:25,890 Done
